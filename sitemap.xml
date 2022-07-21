@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://localhost/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/dashboard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/forgotpwd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/pwdreset/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/terms-conditions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/change-password/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/manage-cards/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/manage-cards/view/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/nfc-read/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/nfc-read/view/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/order-card/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/order-card/order/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/scan-card/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/scan-card/view/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/users/create/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/users/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/users/view/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/card-programs/create/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/card-programs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/card-programs/view/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/manage/login-message/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/users/create/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/users/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/users/view/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://localhost/admin/card-programs/manage/cards/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
